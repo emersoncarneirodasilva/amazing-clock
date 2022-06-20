@@ -180,3 +180,29 @@ body {
     opacity: 0;
   }
 }
+
+@media (max-width: 540px) {
+  .container {
+    width: 350px;
+  }
+
+  .clock {
+    width: 350px;
+    height: 350px;
+  }
+
+  .circle {
+    width: 210px;
+    height: 210px;
+  }
+
+  .circle2 {
+    width: 155px;
+    height: 155px;
+  }
+
+  .circle3 {
+    width: 100px;
+    height: 100px;
+  }  
+}
